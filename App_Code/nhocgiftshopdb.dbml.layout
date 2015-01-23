@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11.375, 13.125" name="nhocgiftshopdb">
+  <DataContextMoniker Name="/nhocgiftshopdbDataContext" />
+  <nestedChildShapes>
+    <classShape Id="769317cf-8a35-46fb-aaea-96f34389478a" absoluteBounds="0.75, 6.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/nhocgiftshopdbDataContext/Baner" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4de0ad32-c9ea-4c2e-b10b-27d68759e876" absoluteBounds="0.765, 7.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0b9ea73e-b8bb-42b0-a72b-6cbe5a336bee" absoluteBounds="0.75, 3.875, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/nhocgiftshopdbDataContext/TuVan" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4a27a0a9-ecda-4294-afef-2186f07ee1ef" absoluteBounds="0.765, 4.335, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8dbef7c8-d7af-4b3b-ab93-9580b4ad546e" absoluteBounds="9, 4.125, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/nhocgiftshopdbDataContext/ChiTietHoaDon" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5887da51-4ac3-4ff7-ae1b-39a1bd814b77" absoluteBounds="9.015, 4.585, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3c2f5f55-0bf3-46c8-8d74-2dba417b05a5" absoluteBounds="0.75, 0.75, 2, 1.7708968098958329">
+      <DataClassMoniker Name="/nhocgiftshopdbDataContext/DanhMuc" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d73a1241-0fb7-4f59-b0e2-ca9a24e14cd0" absoluteBounds="0.765, 1.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="126b00ab-685e-471f-aecc-e792513ef168" absoluteBounds="8.75, 0.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/nhocgiftshopdbDataContext/DichVu" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fbd266ae-3078-4eb4-8705-b73c07b9bdd7" absoluteBounds="8.765, 1.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="51fc7b20-5088-4e97-952d-ae8a97f911c6" absoluteBounds="8.75, 7.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/nhocgiftshopdbDataContext/GioiThieu" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7fbb3e70-e058-49fd-8ce3-6ccbe7a19f2e" absoluteBounds="8.765, 8.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ffc79673-323e-49a5-8f3e-eca8e7b9c3d8" absoluteBounds="6.25, 2.5, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/nhocgiftshopdbDataContext/HinhAnh" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f51ba557-c006-42c7-863e-2c3f6025aaaa" absoluteBounds="6.265, 2.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b46ffc26-45f6-4a55-9af0-4b638d7ba36c" absoluteBounds="6.25, 8, 2, 2.3478011067708344">
+      <DataClassMoniker Name="/nhocgiftshopdbDataContext/HoaDon" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d84e932c-46f1-4c05-b49d-77995f2d9061" absoluteBounds="6.265, 8.46, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5123eccc-d57b-4caf-aa10-5b0fbe6f7095" absoluteBounds="6.25, 5, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/nhocgiftshopdbDataContext/KichCo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4a6f2a71-687f-450a-b1ef-9c1bfe2b96c9" absoluteBounds="6.265, 5.46, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4193f49c-fd4f-41a9-9365-92ce6fc62f6a" absoluteBounds="0.75, 9.75, 2, 2.3478011067708344">
+      <DataClassMoniker Name="/nhocgiftshopdbDataContext/KhachHang" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c79e1419-65c6-4a52-ad12-976874abeed5" absoluteBounds="0.765, 10.21, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="05f6cd8d-b863-4479-a811-894cda90b42c" absoluteBounds="8.75, 10.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/nhocgiftshopdbDataContext/KhuyenMai" />
+      <nestedChildShapes>
+        <elementListCompartment Id="511803db-b281-4de5-95e8-e10991a92dd5" absoluteBounds="8.765, 11.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9c47026a-470a-432c-b024-9722ca6d4558" absoluteBounds="3.5, 3.5, 2, 2.347801106770834">
+      <DataClassMoniker Name="/nhocgiftshopdbDataContext/SanPham" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3bd4be80-fa48-4b92-b8f5-d102430299c3" absoluteBounds="3.515, 3.96, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(1.45242346379207 : 5.45359537760417); (1.45242346379207 : 5.70359537760417); (2.06174684745593 : 5.70359537760417); (2.06174684745593 : 5.45359537760417)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/nhocgiftshopdbDataContext/TuVan/TuVan_TuVan" />
+      <nodes>
+        <classShapeMoniker Id="0b9ea73e-b8bb-42b0-a72b-6cbe5a336bee" />
+        <classShapeMoniker Id="0b9ea73e-b8bb-42b0-a72b-6cbe5a336bee" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.45552987154447 : 2.52089680989583); (1.45552987154447 : 2.77089680989583); (2.05849251552484 : 2.77089680989583); (2.05849251552484 : 2.52089680989583)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/nhocgiftshopdbDataContext/DanhMuc/DanhMuc_DanhMuc" />
+      <nodes>
+        <classShapeMoniker Id="3c2f5f55-0bf3-46c8-8d74-2dba417b05a5" />
+        <classShapeMoniker Id="3c2f5f55-0bf3-46c8-8d74-2dba417b05a5" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 9.8694482421875); (10.90625 : 9.8694482421875); (10.90625 : 6.0881982421875)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/nhocgiftshopdbDataContext/HoaDon/HoaDon_ChiTietHoaDon" />
+      <nodes>
+        <classShapeMoniker Id="b46ffc26-45f6-4a55-9af0-4b638d7ba36c" />
+        <classShapeMoniker Id="8dbef7c8-d7af-4b3b-ab93-9580b4ad546e" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 5.54409912109375); (9 : 5.54409912109375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/nhocgiftshopdbDataContext/KichCo/KichCo_ChiTietHoaDon" />
+      <nodes>
+        <classShapeMoniker Id="5123eccc-d57b-4caf-aa10-5b0fbe6f7095" />
+        <classShapeMoniker Id="8dbef7c8-d7af-4b3b-ab93-9580b4ad546e" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 4.63544840494792); (9 : 4.63544840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/nhocgiftshopdbDataContext/SanPham/SanPham_ChiTietHoaDon" />
+      <nodes>
+        <classShapeMoniker Id="9c47026a-470a-432c-b024-9722ca6d4558" />
+        <classShapeMoniker Id="8dbef7c8-d7af-4b3b-ab93-9580b4ad546e" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 3.88544840494792); (6.25 : 3.88544840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/nhocgiftshopdbDataContext/SanPham/SanPham_HinhAnh" />
+      <nodes>
+        <classShapeMoniker Id="9c47026a-470a-432c-b024-9722ca6d4558" />
+        <classShapeMoniker Id="ffc79673-323e-49a5-8f3e-eca8e7b9c3d8" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 5.42390055338542); (6.25 : 5.42390055338542)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/nhocgiftshopdbDataContext/SanPham/SanPham_KichCo" />
+      <nodes>
+        <classShapeMoniker Id="9c47026a-470a-432c-b024-9722ca6d4558" />
+        <classShapeMoniker Id="5123eccc-d57b-4caf-aa10-5b0fbe6f7095" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 1.63544840494792); (4.5 : 1.63544840494792); (4.5 : 3.5)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/nhocgiftshopdbDataContext/DanhMuc/DanhMuc_SanPham" />
+      <nodes>
+        <classShapeMoniker Id="3c2f5f55-0bf3-46c8-8d74-2dba417b05a5" />
+        <classShapeMoniker Id="9c47026a-470a-432c-b024-9722ca6d4558" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 4.66429768880208); (3.5 : 4.66429768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/nhocgiftshopdbDataContext/TuVan/TuVan_SanPham" />
+      <nodes>
+        <classShapeMoniker Id="0b9ea73e-b8bb-42b0-a72b-6cbe5a336bee" />
+        <classShapeMoniker Id="9c47026a-470a-432c-b024-9722ca6d4558" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
